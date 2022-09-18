@@ -1,0 +1,44 @@
+    body{
+        margin: 30px;
+    }
+
+    h1{
+        text-align: center;
+    }
+    
+    .botao{
+        color: aliceblue;
+        background-color: blue;
+        border-radius: 4px;
+        padding: 15px 30px;
+        text-decoration: none;
+        
+        
+    }
+
+    .botao-container{
+        position: relative;
+        left: 22%;
+    }
+
+    #foto{
+        float: left;
+        width: 280px;
+        padding: 10px;
+        background-color: gray;
+    }
+    .description{
+        font-size: 30px;
+        font-family: Helvetica, sans-serif;
+        position: absolute;
+        top: 40%;
+        right: 8%;
+        
+        
+    }
+    .image-container{
+        height: 300px;
+        position: relative;
+    }
+
+   
