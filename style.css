@@ -71,7 +71,7 @@ ul li:hover::after{
     opacity: 0.5;
 }
 
-ul li ion-icon{
+ul li ion-icon {
     color: #777;
     font-size: 1.75rem;
     transition: 0.5s;
@@ -139,4 +139,10 @@ footer {
     background-color:rgb(13, 13, 77);
     padding-top: 5%;
     padding-bottom: 5%;
+}
+
+.redux {
+    color: #777;
+    font-size: 1.75rem;
+    transition: 0.5s;
 }
